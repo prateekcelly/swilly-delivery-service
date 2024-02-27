@@ -1,0 +1,13 @@
+out/
+.idea/
+vendor/
+*.out
+*.iml
+/.idea*
+.DS_Store
+.vscode/
+.vs/
+.tools/
+
+bin/swagger
+bin/golangci-lint
